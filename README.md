@@ -8,5 +8,6 @@
 - Arnav Kamdar
 - Matteo Persiani
 
-## Link
-- [Click Me!](https://arnavkamdar.github.io/Lab5_Starter/expose.html)
+## Links
+- [Expose](https://arnavkamdar.github.io/Lab5_Starter/expose.html)
+- [Explore](https://arnavkamdar.github.io/Lab5_Starter/explore.html)
